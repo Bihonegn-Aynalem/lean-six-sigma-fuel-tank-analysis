@@ -29,7 +29,7 @@ The project followed the Lean Six Sigma DMAIC framework:
 ### Define
 
 Defined the business problem, project scope, customer requirements, and critical-to-quality metric.
-
+![Process Map](images/Process_map.png)
 ### Measure
 
 Collected inspection data for 50 fuel tanks.
@@ -92,13 +92,14 @@ The most common defects were:
 | Minor Out-Dent | 1 | 11.1% |
 
 Scratch and leak defects represented 66.7% of all observed defects.
-
+![Pareto Chart](images/Defect_pareto_chart.png)
 ### Operator Experience
 
 - New operators: 5 defects from 15 units, or 33.3%
 - Experienced operators: 4 defects from 35 units, or 11.4%
 - Observed risk ratio: 2.92
 - Fisher's exact test: p = 0.106
+  ![Operator Experience](images/Operator_experience_analysis.png)
 
 New operators showed a higher observed defect rate. However, the result was not statistically significant at the 0.05 level, so the analysis does not confirm operator experience as a root cause.
 
@@ -138,6 +139,7 @@ The recommendations represent proposed improvements. A follow-up data collection
 - Lean Six Sigma DMAIC
 - Pareto analysis
 - Fishbone diagram
+  ![Fishbone Diagram](images/Fishbone_diagram.png)
 - Fisher's exact test
 - Risk ratio analysis
 - Failure Mode and Effects Analysis
@@ -150,14 +152,16 @@ The recommendations represent proposed improvements. A follow-up data collection
 - Manufacturing data analysis
 - Operations analysis
 - Statistical interpretation
+  ![Statistical Validation](images/Statistical_validation.png)
 - Process improvement
 - Quality management
 - Root-cause analysis
 - Data visualization
 - Business communication
 - Recommendation development
+  ![Recommendations](images/Recommendations.png)
 - Process control planning
-
+  ![Control Plan](images/Control_plan.png)
 ## Project Presentation
 
 The complete anonymized case-study presentation is available here:
