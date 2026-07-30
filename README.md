@@ -162,6 +162,12 @@ The recommendations represent proposed improvements. A follow-up data collection
   ![Recommendations](images/Recommendations.png)
 - Process control planning
   ![Control Plan](images/Control_plan.png)
+
+## Conclusion
+
+This project demonstrates how statistical analysis and Lean Six Sigma methodologies can be applied to identify manufacturing defects, evaluate potential root causes, and develop practical recommendations to improve quality and operational performance.
+
+The repository is an anonymized portfolio project intended to demonstrate analytical, problem-solving, and process improvement skills.
 ## Project Presentation
 
 The complete anonymized case-study presentation is available here:
