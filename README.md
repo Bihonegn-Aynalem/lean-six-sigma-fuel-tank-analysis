@@ -159,7 +159,7 @@ The recommendations represent proposed improvements. A follow-up data collection
 - Data visualization
 - Business communication
 - Recommendation development
-  ![Recommendations](images/Recommendations.png)
+  ![Recommendations](images/Recommendations .png)
 - Process control planning
   ![Control Plan](images/Control_plan.png)
 ## Project Presentation
