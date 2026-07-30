@@ -1,8 +1,8 @@
-# Manufacturing Fuel Tank Defect Reduction
+# Manufacturing Defect Reduction Using Lean Six Sigma (DMAIC)
 
 ## Project Overview
 
-This project applies the Lean Six Sigma DMAIC methodology to analyze and reduce defects in a manufacturing fuel tank assembly process.
+This project demonstrates the application of the Lean Six Sigma DMAIC methodology to analyze manufacturing defects, identify root causes using statistical analysis, and recommend process improvements to improve product quality and operational performance.
 
 The analysis focuses on identifying the most common defect types, evaluating potential root causes, and recommending practical process improvements and controls.
 
@@ -10,17 +10,17 @@ The analysis focuses on identifying the most common defect types, evaluating pot
 
 ## Business Problem
 
-The manufacturing process had a baseline defect rate of 18%, representing 9 defective units from a sample of 50 inspected fuel tanks.
+A manufacturing assembly process experienced a baseline defect rate of **18%**, with **9 defective units identified from a sample of 50 inspected products**. Product defects increased rework, inspection effort, material waste, and reduced first-pass yield, resulting in lower operational efficiency.
 
-The project goal was to identify the primary sources of defects and recommend actions capable of reducing the defect rate to below 8%.
+The objective of this project was to identify the primary drivers of defects using statistical analysis and Lean Six Sigma tools, then develop practical process improvements capable of reducing the defect rate to **below 8%** while improving product quality and manufacturing performance.
 
 ## Project Objectives
 
-- Measure the existing fuel tank defect rate
+- Measure the existing manufacturing defect rate
 - Identify the most frequent defect categories
-- Evaluate possible relationships between defects and operational factors
-- Recommend improvements targeting the most important causes
-- Develop controls for sustaining process performance
+- Evaluate relationships between defects and operational factors
+- Recommend data driven process improvements 
+- Develop a sustainable control plan to maintain quality improvement
 
 ## Methodology
 
